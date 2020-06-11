@@ -16,4 +16,9 @@ public class RESTAPITest {
 	public void test4(){
 		System.out.println("Test4");
 	}
+	@Test
+	public void test41(){
+		System.out.println("Test14");
+	
+}
 }
