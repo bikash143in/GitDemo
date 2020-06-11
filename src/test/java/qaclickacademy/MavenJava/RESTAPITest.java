@@ -7,6 +7,8 @@ public class RESTAPITest {
 	@Test
 	public void test3(){
 		System.out.println("Test3");
+		System.out.println("New Test 1");
+		System.out.println("New Test 2");
 	}
 	@Test
 	public void test4(){
